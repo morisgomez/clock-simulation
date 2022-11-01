@@ -2,7 +2,6 @@
 #include <iomanip>
 using namespace std;
 
-
 int main ()
 {
     for (int hours = 0; hours < 24; hours++) //hours stop right before time hits 23:59:59.
